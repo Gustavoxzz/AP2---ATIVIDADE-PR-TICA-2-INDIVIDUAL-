@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(90deg, #dcd1cd 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, #dcd1cd 35%, rgb(238, 234, 19) 100%);
 }
 .wrapper{
     height: 260px;
@@ -48,14 +48,14 @@ header p{
 .form input{
     font-size: 18px;
     padding: 0 17px;
-    border: 1px solid #999;
+    border: 1px solid #585555;
 }
 .form button{
     color:#fff;
     cursor: pointer;
     margin-top: 20px;
     font-size: 17px;
-    background: #987a71;
+    background: #7fa36b;
 }
 .wrapper .qr-code{
     display: flex;
@@ -65,7 +65,7 @@ header p{
     border-radius: 5px;
     align-items: center;
     justify-content: center;
-    border: 1px solid #987a71;
+    border: 1px solid #7fa36b;
 }
 .wrapper .img{
     width: 200px;
